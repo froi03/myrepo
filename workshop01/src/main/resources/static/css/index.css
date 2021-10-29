@@ -1,0 +1,32 @@
+.content-wrapper {
+    font-family: 'Arial';
+    font-weight: 700;
+    display: flex;
+    text-align: start;
+    align-items: center;
+    padding: 3rem;
+    border: 3px solid #323232;
+    min-height: 325px;
+}
+.main-content {
+    display: table;
+    text-align: start;
+    align-items: center;
+    padding: 1rem;
+}
+img {
+    height: 150px;
+}
+.quote {
+    font-size: 2.2rem;
+    padding: 1rem 0;
+}
+.repo {
+    position: fixed;
+    top: 45%;
+    left: 0;
+    right: 0;
+    width: 410px;
+    margin: auto;
+    font-size: 1.2rem;
+}
